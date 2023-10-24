@@ -32,9 +32,7 @@ Tic-Tac-Toe is a two-player game where each player takes turns marking a 3x3 gri
 
 The game logic and code structure were implemented with the help of various online resources and tutorials.
 
-## License
-
-This project is licensed under the terms of the MIT license.
+## Contribution
 
 Feel free to contribute and modify the code. Have fun playing!
 
